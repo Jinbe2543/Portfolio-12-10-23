@@ -51,7 +51,7 @@ const Main = () => {
           <div className="py-3">
             <button className="text-xl bg-[#001b5e] text-white p-3 rounded-lg transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-blue-500 duration-300">
               <a
-                href="https://drive.google.com/file/d/1VpY7aVTwSl5ybonxvakmhelbw_14_bi3/view?usp=sharing"
+                href="https://drive.google.com/file/d/1y742x3nwNoHVJx6biLbxbFGD_QbNieed/view?usp=sharing"
                 target="blank"
               >
                 Resume
